@@ -1,3 +1,8 @@
+# EEP-520 Project - Crossing Game
+**Name: Qingchuan Hou**
+
+**UW ID: 2127437**
+
 - [EEP-520 Project - Crossing Game](#eep-520-project---crossing-game)
   - [Project Overview](#project-overview)
     - [Function:](#function)
@@ -12,12 +17,6 @@
   - [Function Instruction](#function-instruction)
   - [Sources](#sources)
   - [License](#license)
-
-
-# EEP-520 Project - Crossing Game
-**Name: Qingchuan Hou**
-
-**UW ID: 2127437**
 
 ## Project Overview
 This project is a simple little game. Players need to control the robot, pass through the dense patrol area, and reach the end point without being detected.
