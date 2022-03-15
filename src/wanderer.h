@@ -5,6 +5,7 @@
 #include <math.h>
 #include "enviro.h"
 
+// The free patrol
 namespace
 {
 
@@ -61,15 +62,6 @@ namespace
             moving_forward.set_tick_name(tick_name);
             rotating.set_tick_name(tick_name);
         }
-
-        //void update()
-        //{
-        //    if (rand() % 100 <= 5)
-         //   {
-         //       emit(Event("tick"));
-         //   }
-         //   StateMachine::update();
-        //}
 
         MovingForward moving_forward;
         Rotating rotating;

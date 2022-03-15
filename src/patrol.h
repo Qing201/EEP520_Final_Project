@@ -5,6 +5,7 @@
 
 using namespace enviro;
 
+// The fixed-point patroller
 class PatrolController : public Process, public AgentInterface {
 
     public:
@@ -14,9 +15,6 @@ class PatrolController : public Process, public AgentInterface {
     void start() {}
     void update();
     void stop() {}
-
-    // private:
-    // int _id;
 
 };
 

@@ -5,6 +5,7 @@
 
 using namespace enviro;
 
+// The fixed-point patroller 2 with different speed and initall direction
 class Patrol2Controller : public Process, public AgentInterface {
 
     public:

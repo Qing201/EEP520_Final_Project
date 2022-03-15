@@ -5,6 +5,7 @@
 
 using namespace enviro;
 
+// Player control robot, with keyboard control and hint detection
 class MyRobotController : public Process, public AgentInterface {
 
     public:

@@ -5,6 +5,7 @@
 
 using namespace enviro;
 
+// The Finish line using for player robot hint detection to check if won.
 class pass_lineController : public Process, public AgentInterface {
 
     public:
