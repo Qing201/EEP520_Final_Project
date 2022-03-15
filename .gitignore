@@ -1,0 +1,11 @@
+## ignore
+bin/ 
+build/
+html/
+latex/
+tmp/
+~\*
+_.o
+_.a
+.vscode
+.DS_Store

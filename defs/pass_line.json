@@ -1,0 +1,19 @@
+{
+    "name": "pass_line",
+    "type": "static",
+    "description": "Replace this string with a description",
+    "shape": [
+        { "x": -10, "y": 190 },
+        { "x": 10, "y": 190 },
+        { "x": 10, "y": -190 },
+        { "x": -10, "y": -190 }
+    ],
+    "friction": {
+      "collision": 5,
+      "linear": 40,
+      "rotational": 600
+    },
+    "sensors": [],
+    "mass": 1,    
+    "controller": "lib/pass_line.so"
+}
